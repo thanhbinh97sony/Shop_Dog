@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Shop_Dog/static/css/main.3d6f5063.chunk.css",
+    "main.js": "/Shop_Dog/static/js/main.5a1390f2.chunk.js",
+    "main.js.map": "/Shop_Dog/static/js/main.5a1390f2.chunk.js.map",
+    "runtime-main.js": "/Shop_Dog/static/js/runtime-main.4ca15e0b.js",
+    "runtime-main.js.map": "/Shop_Dog/static/js/runtime-main.4ca15e0b.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Shop_Dog/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f2b36eb5.chunk.js": "/Shop_Dog/static/js/2.f2b36eb5.chunk.js",
+    "static/js/2.f2b36eb5.chunk.js.map": "/Shop_Dog/static/js/2.f2b36eb5.chunk.js.map",
+    "static/js/3.906439d4.chunk.js": "/Shop_Dog/static/js/3.906439d4.chunk.js",
+    "static/js/3.906439d4.chunk.js.map": "/Shop_Dog/static/js/3.906439d4.chunk.js.map",
+    "index.html": "/Shop_Dog/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Shop_Dog/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.3d6f5063.chunk.css.map": "/Shop_Dog/static/css/main.3d6f5063.chunk.css.map",
+    "static/js/2.f2b36eb5.chunk.js.LICENSE.txt": "/Shop_Dog/static/js/2.f2b36eb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ca15e0b.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f2b36eb5.chunk.js",
+    "static/css/main.3d6f5063.chunk.css",
+    "static/js/main.5a1390f2.chunk.js"
+  ]
+}
